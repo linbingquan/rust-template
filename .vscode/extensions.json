@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "usernamehw.errorlens",
+        "serayuzgur.crates",
+        "rust-lang.rust-analyzer",
+        "swellaby.vscode-rust-test-adapter",
+        "vadimcn.vscode-lldb",
+        "tamasfe.even-better-toml"
+    ]
+}
